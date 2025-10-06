@@ -19,11 +19,11 @@ Os arquivos e pastas estão organizados da seguinte forma para facilitar a naveg
 
 | Diretório/Arquivo | Conteúdo |
 | :--- | :--- |
-| `aulas/` | Arquivos de código de cada aula ou tópico específico. |
-| `exercicios/` | Desafios e exercícios práticos resolvidos. |
+| `testes/` | Arquivos para testes de funções específicas. |
 | `imagens/` | Assets (imagens, ícones, etc.) usados nos projetos. |
+| `audios/` | Assets de áudios (.mp3, .ogg, etc.) usados nos projetos. |
 | `README.md` | Este arquivo com as informações sobre o projeto. |
-| `index.html` | Exemplo principal ou o último projeto desenvolvido (se aplicável). |
+
 
 ## 💻 Como usar este material
 
