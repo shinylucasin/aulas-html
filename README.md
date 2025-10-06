@@ -54,6 +54,6 @@ Este projeto é pessoal, mas sinta-se à vontade para abrir uma **Issue** caso e
   * [GitHub](https://www.google.com/search?q=https://github.com/shinylucasin)
   * [LinkedIn](https://www.linkedin.com/in/lucas-miguel-rocha-silva-378276366)
   * [YouTube](https://www.youtube.com/c/LucasinXablau)
-  * [Discord](shinylucasin)
+  * [Discord] (shinylucasin)
 
 -----
