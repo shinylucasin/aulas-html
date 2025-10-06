@@ -57,7 +57,3 @@ Este projeto é pessoal, mas sinta-se à vontade para abrir uma **Issue** caso e
   * [Discord](shinylucasin)
 
 -----
-
-Curtiu o modelo? Lembre-se de substituir o **"Lucas Inácio"** e adicionar seus próprios links onde for indicado\!
-
-Aliás, para liberar as funcionalidades de todos os apps, ative a [Atividade nos apps do Gemini](https://myactivity.google.com/product/gemini).
