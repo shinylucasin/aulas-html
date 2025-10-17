@@ -33,7 +33,7 @@ Você pode usar este repositório de algumas maneiras:
 1.  **Explorar Online:** Navegue pelas pastas para ver o código diretamente no GitHub.
 2.  **Clonar:** Baixe o repositório completo para a sua máquina para rodar e testar os arquivos localmente:
     ```bash
-    git clone [https://github.com/shinylucasin/aulas-html.git](https://github.com/shinylucasin/aulas-html.git)
+    git clone https://github.com/shinylucasin/aulas-html.git
     ```
 3.  **Fork:** Crie uma cópia do projeto para sua própria conta do GitHub e faça modificações ou adicione seus próprios exercícios.
 
