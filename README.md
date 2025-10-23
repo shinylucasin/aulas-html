@@ -22,7 +22,7 @@ Os arquivos e pastas estão organizados da seguinte forma para facilitar a naveg
 | `testes/` | Arquivos para testes de funções específicas. |
 | `imagens/` | Assets (imagens, ícones, etc.) usados nos projetos. |
 | `audios/` | Assets de áudios (.mp3, .ogg, etc.) usados nos projetos. |
-| `css/` | **Arquivos de estilo (CSS).** *Aguardando conteúdo.* |
+| `css/` | **Arquivos de estilo (CSS).**|
 | `js/` | **Arquivos de script (JavaScript).** *Aguardando conteúdo.* |
 | `README.md` | Este arquivo com as informações sobre o projeto. |
 
