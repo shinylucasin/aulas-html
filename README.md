@@ -15,16 +15,18 @@ O objetivo principal deste repositório é organizar o conhecimento prático em 
 
 ## 📁 Estrutura do Repositório
 
-Os arquivos e pastas estão organizados da seguinte forma para facilitar a navegação. Observe que as pastas para **CSS** e **JavaScript** estão inclusas para organização futura:
+Os arquivos e pastas estão organizados da seguinte forma para facilitar a navegação:
 
 | Diretório/Arquivo | Conteúdo |
 | :--- | :--- |
-| `testes/` | Arquivos para testes de funções específicas. |
-| `imagens/` | Assets (imagens, ícones, etc.) usados nos projetos. |
-| `audios/` | Assets de áudios (.mp3, .ogg, etc.) usados nos projetos. |
-| `css/` | **Arquivos de estilo (CSS).** *Aguardando conteúdo.* |
-| `js/` | **Arquivos de script (JavaScript).** *Aguardando conteúdo.* |
+| `assets/` | **Contém todos os recursos de mídia e suporte.** |
+| ├── `audios/` | Assets de áudios (`.mp3`, `.txt`, etc.) usados nos projetos. |
+| └── `imagens/` | Assets de imagens e mídias (`.jpg`, `.webp`, etc.) usados nos projetos. |
+| `css/` | **Arquivos de estilo (CSS).** |
+| `js/` | **Arquivos de script (JavaScript).** |
+| `testes/` | Arquivos principais (`.html`) com os exercícios e exemplos práticos. |
 | `README.md` | Este arquivo com as informações sobre o projeto. |
+| `.vscode/` | Configurações do ambiente de desenvolvimento (VS Code). |
 
 ## 💻 Como usar este material
 
