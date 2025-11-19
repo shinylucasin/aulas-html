@@ -19,6 +19,7 @@ Os arquivos e pastas estão organizados da seguinte forma para facilitar a naveg
 
 | Diretório/Arquivo | Conteúdo |
 | :--- | :--- |
+| `.vscode/` | Configurações do ambiente de desenvolvimento (VS Code). |
 | `assets/` | **Contém todos os recursos de mídia e suporte.** |
 | ├── `audios/` | Assets de áudios (`.mp3`, `.txt`, etc.) usados nos projetos. |
 | └── `imagens/` | Assets de imagens e mídias (`.jpg`, `.webp`, etc.) usados nos projetos. |
@@ -26,7 +27,6 @@ Os arquivos e pastas estão organizados da seguinte forma para facilitar a naveg
 | `js/` | **Arquivos de script (JavaScript).** |
 | `testes/` | Arquivos principais (`.html`) com os exercícios e exemplos práticos. |
 | `README.md` | Este arquivo com as informações sobre o projeto. |
-| `.vscode/` | Configurações do ambiente de desenvolvimento (VS Code). |
 
 ## 💻 Como usar este material
 
